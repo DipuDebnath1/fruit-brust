@@ -18,7 +18,7 @@
     background-size: cover;
     border-radius: 20px;
   }
-  .bottom-border::before{
+  /* .bottom-border:first-child:before{
     position: absolute;
     content: '';
     bottom: 0;
@@ -27,7 +27,7 @@
     width: 6rem;
     background-color: rgb(105, 102, 102);
   }
-  .border-bottom-left::before{
+  .border-bottom-left:first-child:before{
     position: absolute;
     content: '';
     bottom: 0;
@@ -35,4 +35,4 @@
     height: 2px;
     width: 6rem;
     background-color: rgb(105, 102, 102);
-  }
+  } */
