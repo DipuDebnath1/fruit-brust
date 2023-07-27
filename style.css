@@ -16,6 +16,7 @@
   .meet{
     background: linear-gradient(rgba(19, 19, 20, 0.52), rgba(19, 19, 20, 0.52)),url(images/banner1.png);
     background-size: cover;
+    border-radius: 20px;
   }
   .bottom-border::before{
     position: absolute;
